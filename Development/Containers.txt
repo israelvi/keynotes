@@ -1,0 +1,2 @@
+Multiple cntainers
+https://manfredmlange.medium.com/building-a-dev-container-for-net-core-e43a2236504f

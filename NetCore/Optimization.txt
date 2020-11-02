@@ -1,0 +1,2 @@
+ASP NET Core optimization
+https://eventsloop.medium.com/happy-asp-net-core-performance-optimization-4e21a383d299
